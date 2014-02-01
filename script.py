@@ -1,5 +1,5 @@
 # Camera Trap script
-
+# All rights reserved
 Read data file
 
 Run analysis
